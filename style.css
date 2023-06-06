@@ -81,7 +81,7 @@ margin: 4px auto;
   transform: translateY(-50%);
   
 }
-
+/* mod light */
 .light #switch button {
   left: initial;
   right: -1.30px;
